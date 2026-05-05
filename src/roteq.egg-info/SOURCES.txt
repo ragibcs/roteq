@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/roteq/__init__.py
+src/roteq.egg-info/PKG-INFO
+src/roteq.egg-info/SOURCES.txt
+src/roteq.egg-info/dependency_links.txt
+src/roteq.egg-info/top_level.txt
